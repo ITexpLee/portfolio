@@ -17,4 +17,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_PORTFOLIO_FDAF5 }}'
           channelId: live
-          projectId: portfolio-fdaf5
+          projectId: MikelLee
