@@ -12,7 +12,7 @@ const resumeLink =
   "https://mikellee.web.app//static/media/Mikel_Lee-BIT_MESRA.835a18172c68ddc0b073.pdf";
   // "https://github.com/Mikel8Lee/portfolio/blob/master/src/Assets/Mikel_Lee-BIT_MESRA.pdf";
   
-
+console.log(111);
 function ResumeNew() {
   const [, setWidth] = useState(1200);
 
