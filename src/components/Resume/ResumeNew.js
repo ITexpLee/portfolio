@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "http://localhost:3000/static/media/Mikel_Lee-BIT_MESRA.835a18172c68ddc0b073.pdf";
+  "https://mikellee.web.app//static/media/Mikel_Lee-BIT_MESRA.835a18172c68ddc0b073.pdf";
   // "https://github.com/Mikel8Lee/portfolio/blob/master/src/Assets/Mikel_Lee-BIT_MESRA.pdf";
   
 
