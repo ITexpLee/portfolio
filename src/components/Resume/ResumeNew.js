@@ -16,6 +16,7 @@ console.log(111);
 function ResumeNew() {
   const [, setWidth] = useState(1200);
 
+  
   useEffect(() => {
     setWidth(window.innerWidth);
   }, []);
