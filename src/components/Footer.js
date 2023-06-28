@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Mikel Lee</h3>
+          <h3>Designed and Developed by Flyn Lee</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} SB</h3>
@@ -23,7 +23,7 @@ function Footer() {
           {/* <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Mikel4419"
+                href="https://github.com/Flyn4419"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Mikel4419"
+                href="https://twitter.com/Flyn4419"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/Mikel4419/"
+                href="https://www.linkedin.com/in/Flyn4419/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/Mikel4419"
+                href="https://www.instagram.com/Flyn4419"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

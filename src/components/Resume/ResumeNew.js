@@ -2,15 +2,15 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/../Assets/Mikel_Lee-BIT_MESRA.pdf";
+import pdf from "../../Assets/../Assets/Flyn_Lee-BIT_MESRA.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://mikellee.web.app//static/media/Mikel_Lee-BIT_MESRA.835a18172c68ddc0b073.pdf";
-  // "https://github.com/Mikel8Lee/portfolio/blob/master/src/Assets/Mikel_Lee-BIT_MESRA.pdf";
+  "https://Flynlee.web.app//static/media/Flyn_Lee-BIT_MESRA.835a18172c68ddc0b073.pdf";
+  // "https://github.com/Flyn8Lee/portfolio/blob/master/src/Assets/Flyn_Lee-BIT_MESRA.pdf";
   
 console.log(111);
 function ResumeNew() {
