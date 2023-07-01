@@ -39,7 +39,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Flyn4419"
+                  href="https://github.com/ITexpLee"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -49,7 +49,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Flyn4419"
+                  href="https://twitter.com/ITexpLee"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -59,7 +59,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/Flyn4419/"
+                  href="https://www.linkedin.com/in/ITexpLee/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -69,7 +69,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/Flyn4419"
+                  href="https://www.instagram.com/ITexpLee"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
