@@ -10,7 +10,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 
 const resumeLink =
   "https://Flynlee.web.app//static/media/Flyn_Lee-BIT_MESRA.835a18172c68ddc0b073.pdf";
-  // "https://github.com/Flyn8Lee/portfolio/blob/master/src/Assets/Flyn_Lee-BIT_MESRA.pdf";
+  // "https://github.com/ITexpLee/portfolio/blob/master/src/Assets/Flyn_Lee-BIT_MESRA.pdf";
   
 console.log(111);
 function ResumeNew() {
